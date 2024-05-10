@@ -1,2 +1,2 @@
-# rust-cli
-Simple Rust CLI
+# minigrep
+Grep tool built on rust
